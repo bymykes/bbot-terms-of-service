@@ -1,5 +1,4 @@
 
-Tabii, işte uzun ve açıklayıcı bir kullanıcı sözleşmesi örneği:
 
 User Agreement
 
